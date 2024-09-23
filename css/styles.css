@@ -135,7 +135,7 @@ img {
   color: var(--ocean);
 }
 
-address ul {
+.address-menu {
   text-decoration: none;
   list-style-type: none;
   font-style: normal;
@@ -146,18 +146,18 @@ address ul {
   gap: 40px;
 }
 
-address ul li a {
+.address-menu li a {
   text-decoration: none;
   list-style-type: none;
   font-style: normal;
   color: #434455;
 }
 
-address ul li a:hover {
+.address-menu li a:hover {
   color: var(--ocean);
 }
 
-address ul li a:focus {
+.address-menu li a:focus {
   color: var(--ocean);
 }
 
