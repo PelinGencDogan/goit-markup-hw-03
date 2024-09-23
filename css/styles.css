@@ -75,7 +75,7 @@ header {
   justify-content: space-between;
 }
 
-header nav {
+.headernav {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -106,7 +106,7 @@ header nav {
   height: 21px;
 }
 
-Header nav ul {
+.headernav ul {
   list-style-type: none;
   box-sizing: content-box;
   display: flex;
@@ -115,7 +115,7 @@ Header nav ul {
   padding: 24px 0;
 }
 
-header nav ul li a {
+.headernav ul li a {
   font-family: "Roboto", sans-serif;
   list-style-type: none;
   text-decoration: none;
@@ -127,11 +127,11 @@ header nav ul li a {
   padding: 24px 0;
 }
 
-header nav ul li a:hover {
+.headernav ul li a:hover {
   color: var(--ocean);
 }
 
-header nav ul li a:focus {
+.headernav ul li a:focus {
   color: var(--ocean);
 }
 
