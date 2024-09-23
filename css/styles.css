@@ -115,7 +115,7 @@ img {
   padding: 24px 0;
 }
 
-.menu-list a {
+.menu-list {
   font-family: "Roboto", sans-serif;
   list-style-type: none;
   text-decoration: none;
@@ -127,11 +127,11 @@ img {
   padding: 24px 0;
 }
 
-.menu-list a:hover {
+.menu-list:hover {
   color: var(--ocean);
 }
 
-.menu-list a:focus {
+.menu-list:focus {
   color: var(--ocean);
 }
 
