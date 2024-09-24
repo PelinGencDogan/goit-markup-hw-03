@@ -312,6 +312,10 @@ section {
   text-align: center;
 }
 
+.title-two {
+  margin-bottom: 72px;
+}
+
 .our-portfolio ul {
   list-style-type: none;
   display: flex;
