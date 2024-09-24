@@ -179,7 +179,7 @@ section {
   height: 600px;
 }
 
-.order-service h1 {
+.title-one {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
   font-weight: 700;
@@ -212,17 +212,30 @@ section {
   background-color: var(--ocean);
 }
 
-.vision ul {
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.section-one-list {
   display: flex;
   gap: 24px;
 }
 
-.vision ul li {
+.section-one-list-item {
   list-style-type: none;
   width: calc((100% - 72px) / 4);
 }
 
-.vision ul li h3 {
+.title-three {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
