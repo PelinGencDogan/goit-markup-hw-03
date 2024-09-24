@@ -70,6 +70,12 @@ img {
   justify-content: space-between;
 }
 
+.header-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .logo {
   font-weight: 700;
   font-size: 18px;
