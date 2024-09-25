@@ -66,12 +66,6 @@ img {
   justify-content: space-between;
 }
 
-.nav-menu {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
 .web-header {
   font-family: "Raleway", sans-serif;
   width: 44px;
