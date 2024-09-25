@@ -320,7 +320,7 @@ section {
   margin-bottom: 72px;
 }
 
-.our-portfolio ul {
+.section-three-list {
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;
@@ -328,7 +328,7 @@ section {
   row-gap: 48px;
 }
 
-.our-portfolio ul li {
+.section-three-list-item {
   list-style-type: none;
 }
 
@@ -341,7 +341,7 @@ section {
   padding: 32px 16px;
 }
 
-.our-portfolio img {
+.section-three img {
   width: 360px;
   height: 300px;
 }
@@ -354,7 +354,7 @@ section {
   color: var(--navyblue);
 }
 
-.our-portfolio ul li p {
+.section-three p {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
