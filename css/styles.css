@@ -377,7 +377,7 @@ footer p {
   max-width: 264px;
 }
 
-.footerlogospan {
+.footer-logo {
   font-family: "Raleway", sans-serif;
   width: 71px;
   height: 21px;
@@ -388,6 +388,12 @@ footer p {
   letter-spacing: 0.03em;
   display: inline-block;
   margin-bottom: 16px;
+}
+
+.web {
   color: #4d5ae5;
+}
+
+.studio {
   color: #f4f4fd;
 }
