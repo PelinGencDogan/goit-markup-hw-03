@@ -249,11 +249,11 @@ section {
   line-height: 1.5em;
 }
 
-.our-team {
+.section-two {
   background: var(--cloud);
 }
 
-.our-team h2 {
+.section-two {
   color: #2e2f42;
   font-weight: 700;
   font-size: 36px;
@@ -267,7 +267,7 @@ section {
   margin-bottom: 72px;
 }
 
-.our-team ul {
+.section-two-list {
   list-style-type: none;
   display: flex;
   gap: 24px;
@@ -275,14 +275,14 @@ section {
   text-align: center;
 }
 
-.our-team ul li {
+.section-two-list-item {
   width: calc((100% - 72px) / 4);
   list-style-type: none;
   background-color: #ffffff;
   border-radius: 0 0 4px 4px;
 }
 
-.our-team img {
+.section-two img {
   width: 264px;
   height: 260px;
 }
