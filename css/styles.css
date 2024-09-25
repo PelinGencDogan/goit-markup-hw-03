@@ -53,6 +53,11 @@ img {
   display: block;
 }
 
+.header {
+  height: 72px;
+  border-bottom: 1px solid #e7e9fc;
+}
+
 .container {
   width: 1158px;
   max-width: 1440px;
@@ -70,7 +75,7 @@ img {
   justify-content: space-between;
 }
 
-.header-nav {
+.nav-menu {
   display: flex;
   align-items: center;
   justify-content: space-between;
