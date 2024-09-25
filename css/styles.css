@@ -358,7 +358,7 @@ section {
   color: var(--slate);
 }
 
-footer {
+.footer {
   background-color: #2e2f42;
   color: #ffffff;
   height: 312px;
@@ -367,14 +367,6 @@ footer {
 
 .container-footer {
   width: 1158px;
-}
-
-footer p {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  max-width: 264px;
 }
 
 .footer-logo {
@@ -389,11 +381,18 @@ footer p {
   display: inline-block;
   margin-bottom: 16px;
 }
-
 .web {
   color: #4d5ae5;
 }
 
 .studio {
   color: #f4f4fd;
+}
+
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  max-width: 264px;
 }
