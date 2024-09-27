@@ -253,7 +253,7 @@ section {
   background: var(--cloud);
 }
 
-.section-two {
+.section-two h2 {
   color: #2e2f42;
   font-weight: 700;
   font-size: 36px;
