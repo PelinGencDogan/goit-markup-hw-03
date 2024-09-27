@@ -66,6 +66,22 @@ img {
   justify-content: space-between;
 }
 
+.header nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  color: #2e2f42;
+  list-style-type: none;
+  font-weight: 500;
+  font-size: 1em;
+  line-height: 24px;
+  text-decoration: none;
+  margin-right: 76px; 
+}
+
 .web-header {
   font-family: "Raleway", sans-serif;
   width: 44px;
