@@ -66,12 +66,6 @@ img {
   justify-content: space-between;
 }
 
-.header-nav {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
 .logo {
   color: #2e2f42;
   list-style-type: none;
@@ -102,6 +96,12 @@ img {
   line-height: 1.3125em;
   letter-spacing: 0.03em;
   color: #2e2f42;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .nav-menu {
